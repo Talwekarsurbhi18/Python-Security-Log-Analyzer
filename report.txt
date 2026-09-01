@@ -1,0 +1,10 @@
+===== SECURITY LOG ANALYSIS REPORT =====
+
+Total Failed Login Attempts: 11
+Total Successful Logins: 4
+
+Suspicious IP Addresses:
+- 192.168.1.10: 4 failed login attempts
+- 192.168.1.30: 5 failed login attempts
+
+========================================
